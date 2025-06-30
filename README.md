@@ -5,9 +5,12 @@ For each TSS, the average transcript length was calculated as the total transcri
 
 # Requirements
 
-# System
-  Linux OS
+## System
+● **Linux OS**
   
 # Data files
+● **BED file output from PRO-Seq experiments.**
 
-BED file output from PRO-Seq experiments.
+
+
+
